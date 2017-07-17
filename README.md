@@ -12,3 +12,6 @@ colombia
 17/07/2017
 se cambio el archivo readme.md
 
+1:00 pm
+
+modificado para repasar
